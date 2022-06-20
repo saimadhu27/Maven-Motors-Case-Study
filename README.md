@@ -12,3 +12,4 @@
 - By analysing the data I found that the ad which has funny content get more views and buying a 60 second spot gives the company 185 percent more views than a 30 second spot.
 - Also discovered that other car companies have shown funny content more, and showed the product more quickly only 50 percent of the time.
 - Estimated that the average cost per second for an ad will be 1.971 lakh dollars.
+- Presented an dashboard with all information.
